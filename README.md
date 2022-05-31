@@ -3,7 +3,7 @@ Week 1 Homework
 
 ## Description
 
-This weeks project was to clean up and edit a page for a search engine optimizition company. I have added a title to the page, which was not there before. I removed a couple of unused IDs that were already present as classes. I added alt text to all the images describing what was shown.
+This weeks project was to clean up and edit a page for a search engine optimizition company. I have added a title to the page, which was not there before. I added alt text to all the images describing what was shown.
 
 This week I learned how to upload files to Github, add files to a repo, and commit changes, and push the files to Github.
 
