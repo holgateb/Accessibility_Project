@@ -1,4 +1,4 @@
-# Accessibility_Project
+# Code Refactor
 A demonstration of accessability features and code refactoring
 
 ## Description
@@ -26,6 +26,6 @@ We also learned the importance of using alt tags to define an image for visually
 
 ## Link to Deployed Application and Repo
 
-https://holgateb.github.io/Accessibility_Project/
+https://holgateb.github.io/code-refactor/
 
 https://github.com/holgateb
