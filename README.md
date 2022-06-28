@@ -1,5 +1,5 @@
 # Accessibility_Project
-A demonstration of accessability features
+A demonstration of accessability features and code refactoring
 
 ## Description
 
