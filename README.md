@@ -1,5 +1,5 @@
 # Accessibility_Project
-Week 1 Homework
+A demonstration of accessability features
 
 ## Description
 
@@ -23,3 +23,9 @@ We also learned the importance of using alt tags to define an image for visually
 ## Usage
 
 ![Screenshot of Horiseon Website](assets/images/screenshot.png)
+
+## Link to Deployed Application and Repo
+
+https://holgateb.github.io/Accessibility_Project/
+
+https://github.com/holgateb
